@@ -1,0 +1,8 @@
+├── Starting server with PID: [2444] - Kill it to stop
+
+Connection from 127.0.0.1:59968
+└─[ter 19 nov 2024 09:08:20 -03]: USER: admin | PASSWORD | admin
+
+Connection from 127.0.0.1:48038
+└─[ter 19 nov 2024 09:08:30 -03]: USER: test | PASSWORD | test
+
